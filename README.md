@@ -1,2 +1,2 @@
 # TributePage
-Project using only HTML5 and CSS3.
+Basic project using only HTML5 and CSS3.
