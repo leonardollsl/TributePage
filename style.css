@@ -1,0 +1,48 @@
+/* For the sake of this project, i will only use one file of css called "style.css" to style this Tribute Page.
+I know that is not a very good praticte having just one file for everything, but this is my first project so bear with me. Thanks.*/
+
+.main__page {
+    background:#eee
+    ;
+}
+
+.tittle {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.subtittle {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.image__section {
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+
+.image__main {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+.image__description {
+    text-align: center;
+    margin: 15px 0 5px 0;
+    display: block;
+}
+
+.tribute__info {
+    text-align: center;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
