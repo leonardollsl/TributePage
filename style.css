@@ -1,9 +1,8 @@
 /* For the sake of this project, i will only use one file of css called "style.css" to style this Tribute Page.
 I know that is not a very good praticte having just one file for everything, but this is my first project so bear with me. Thanks.*/
-
+/* This is a project to claim a certificate for the course freecodecamp.org - Responsive web design.*/
 .main__page {
-    background:#eee
-    ;
+    background:#eee;
 }
 
 .tittle {
